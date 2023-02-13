@@ -5,7 +5,7 @@
 <details>
   <summary>📗 Table of Contents</summary>
   <ul>
-    <li><a href="#-meal-app-">📖 Decode Morse Code</a></li>
+    <li><a href="#-ruby-template-">📖 Ruby Template</a></li>
     <li><a href="#-built-with-">🛠 Built With</a></li>
     <li><a href="#-getting-started-">💻 Getting Started</a></li>
     <li><a href="#-authors-">👥 Authors </a></li>
@@ -20,9 +20,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode Morse Code <a name="about-project"></a>
+# 📖 Ruby Template <a name="about-project"></a>
 
-**Decode Morse Code** is a simple ruby project that can decode messages written in morse code
+**Ruby Template** is a simple template repository to kickstart your Ruby projects.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,7 +39,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Simple project that can decode morse code
+- Template repository for Ruby projects
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,7 +64,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/Shisui6/decode-morse-code.git
+  git clone https://github.com/Shisui6/ruby-template.git
 ```
 
 ### Install
@@ -72,7 +72,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd decode-morse-code
+  cd ruby-template
   bundle install
 ```
 
